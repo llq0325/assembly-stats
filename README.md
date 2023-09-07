@@ -1,6 +1,6 @@
 # Running `assembly-stats` on github pages.
 
-Demo:  https://ammaraziz.github.io/assembly-stats/
+Demo:  https://llq0325.github.io/assembly-stats/
 
 ### Detailed instructions to run assembly-stats on github pages
 
